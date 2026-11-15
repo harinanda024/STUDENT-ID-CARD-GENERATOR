@@ -56,7 +56,7 @@ How to Run the Project
 5. Upload a photograph.
 6. Generate and view the student ID card.
 
- 👩‍💻 Team Members and Contributions
+  Team Members and Contributions
 
 This project was developed collaboratively by a team of four members. Each member was responsible for a different part of the application.
 
