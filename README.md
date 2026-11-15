@@ -62,7 +62,7 @@ This project was developed collaboratively by a team of four members. Each membe
 
 | Team Member | Register Number | Role |
 |---|---|---|
-| Harinanda V Nair | 2392608088 | Project Integration & Quality Assurance |
+| Harinanda V Nair | 2392608088 | Team Leader & Project Integration|
 | Akshita Rai | 2392608079 | HTML Development |
 | Simran Sethi | 2392608080 | CSS Development |
 | Harini S| 2392608235 | JavaScript Development |
